@@ -1,0 +1,13 @@
+ Static hostname: debian-gnu-linux-12
+       Icon name: computer-vm
+         Chassis: vm 🖴
+      Machine ID: 3c25e8e872464696a7493ab45b57db7e
+         Boot ID: a0a42e76fcb14e8da159252b67151a05
+  Virtualization: parallels
+Operating System: Debian GNU/Linux 12 (bookworm)
+          Kernel: Linux 6.1.0-9-arm64
+    Architecture: arm64
+ Hardware Vendor: Parallels International GmbH.
+  Hardware Model: Parallels ARM Virtual Machine
+Firmware Version: 19.3.0 (54924)
+9f43878bdcffd495854064077270351c789c75e9  -
