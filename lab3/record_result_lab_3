@@ -1,0 +1,513 @@
+Script started on 2024-09-26 19:30:57+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="120" LINES="46"]
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ ls -l
+[?2004ltotal 100
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:04 [0m[01;34mDesktop[0m
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mDocuments[0m
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mDownloads[0m
+-rw-rw-r-- 1 parallels parallels   565 Sep 25 19:37 lab3_2.py
+-rw-rw-r-- 1 parallels parallels   564 Sep 25 19:37 lab3.py
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mMusic[0m
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mPictures[0m
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mPublic[0m
+-rw-r--r-- 1 parallels parallels     0 Sep 26 19:30 record_result_lab_3
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mTemplates[0m
+-rw-rw-r-- 1 parallels parallels 51781 Sep 25 19:37 the-matrix-reloaded.csv
+-rw-rw-r-- 1 parallels parallels  7738 Sep 25 19:37 variants.txt
+drwxr-xr-x 2 parallels parallels  4096 Aug  4 13:03 [01;34mVideos[0m
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3
+[?2004lpython3: can't open file '/home/parallels/lab3': [Errno 2] No such file or directory
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3.py 
+[?2004lArchitect:  Hope. It is the quintessential human delusion, simultaneously the source of your greatest strength and your greatest weakness.
+Neo:  If I were you, I would hope that we don’t meet again.
+Architect:  We won’t.
+Morpheus:  What is that?
+Link:  Whatever it is, it’s moving faster than anything I’ve ever seen.
+Link:  Shit, he caught her!
+Trinity:  Neo, I had to.
+Neo:  I know. The bullet is still inside.
+Morpheus:  Trinity, don’t you quit on me now.
+Trinity:  I’m sorry.
+Neo:  Trinity. Trinity, I know you can hear me. I’m not letting go. I can’t. I love you too damn much.
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3.py kazumian_[K[K[K[K[K[K[K[K[K> kazumian_out
+[?2004lArchitect:  The first Matrix I designed was quite naturally perfect, it was a work of art – flawless, sublime. A triumph equalled only by its monumental failure. The inevitability of its doom is apparent to me now as a consequence of the imperfection inherent in every human being. Thus, I redesigned it based on your history to more accurately reflect the varying grotesqueries of your nature. However, I was again frustrated by failure. I have since come to understand that the answer eluded me because it required a lesser mind, or perhaps a mind less bound by the parameters of perfection. Thus the answer was stumbled upon by another – an intuitive program, initially created to investigate certain aspects of the human psyche. If I am the father of the matrix, she would undoubtedly be its mother.
+Neo:  The Oracle.
+Neo:  This is about Zion.
+Architect:  You are here because Zion is about to be destroyed – its every living inhabitant terminated, its entire existence eradicated.
+Architect:  Denial is the most predictable of all human responses, but rest assured, this will be the sixth time we have destroyed it, and we have become exceedingly efficient at it.
+Architect:  The function of the One is now to return to the Source, allowing a temporary dissemination of the code you carry, reinserting the prime program. After which, you will be required to select from the Matrix 23 individuals – 16 female, 7 male – to rebuild Zion. Failure to comply with this process will result in a cataclysmic system crash, killing everyone connected to the Matrix, which, coupled with the extermination of Zion, will ultimately result in the extinction of the entire human race.
+Neo:  No.
+Architect:  Which brings us at last to the moment of truth, wherein the fundamental flaw is ultimately expressed, and the anomaly revealed as both beginning and end. There are two doors. The door to your right leads to the Source, and the salvation of Zion. The door to your left leads back to the Matrix, to her and to the end of your species. As you adequately put, the problem is choice. But we already know what you are going to do, don’t we? Already, I can see the chain reaction – the chemical precursors that signal the onset of an emotion, designed specifically to overwhelm logic and reason – an emotion that is already blinding you from the simple and obvious truth. She is going to die, and there is nothing you can do to stop it.
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3.py > kazumian_out[K[K[Kerr
+[?2004lCouncillor Hamann:  That you are, in fact, still human. Have you ever been to the enginering level? I love to walk there at night, it’s quite amazing. Would you like to see it?
+Neo:  Sure.
+Councillor Hamann:  Almost no one comes down here, unless, of course, there’s a problem. That’s how it is with people – nobody cares how it works as long as it works. I like it down here. I like to be reminded this city survives because of these machines. These machines are keeping us alive, while other machines are coming to kill us. Interesting, isn’t it? Power to give life, and the power to end it.
+Neo:  We have the same power.
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_
+kazumian_err  kazumian_out  
+]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_
+kazumian_err  kazumian_out  
+]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_
+kazumian_err  kazumian_out  
+]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_
+kazumian_err  kazumian_out  
+]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_err 
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;46r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[46;1H"kazumian_err" 6 lines, 533 bytes[1;1HCouncillor Hamann:  It’[1;24Hs a good sign.
+Neo:  Of what?
+Councillor Hamann:  I suppose we do, but down here sometimes I think about all those people still plugged into the Matrii[4;1Hx and when I look at these machines, I.. I can’[4;48Ht help thinking that in a way, we are plugged into them.
+Neo:  But we control these machines, they don’[5;47Ht control us.
+Councillor Hamann:  Of course not, how could they? The idea’[6;61Hs pure nonsense, but…[6;83Hit does make one wonder just…[6;113Hwhat is  [7;1Hcontrol?
+Neo:  If we wanted, we could shut these machines down.
+[94m~                                                                                                                       [10;1H~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [32;1H~                                                                                                                       [33;1H~                                                                                                                       [34;1H~                                                                                                                       [35;1H~                                                                                                                       [36;1H~                                                                                                                       [37;1H~                                                                                                                       [38;1H~                                                                                                                       [39;1H~                                                                                                                       [40;1H~                                                                                                                       [41;1H~                                                                                                                       [42;1H~                                                                                                                       [43;1H~                                                                                                                       [44;1H~                                                                                                                       [45;1H~                                                                                                                       [1;1H[?25h[?4m[?25l[m[46;1H[K[46;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[46;1H[K[46;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_err [K[K[K[Kout 
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;46r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[46;1H"kazumian_out" 8 lines, 1378 bytes[1;1HNeo:  Choice. The problem is choice.
+Architect:  Please. As I was saying, she stumbled upon a solution whereby nearly 99% of all test subjects accepted the pp[3;1Hrogram, as long as they were given a choice, even if they were only aware of the choice at a near unconscious level. Whii[4;1Hle this answer functioned, it was obviously fundamentally flawed, thus creating the otherwise contradictory systemic anoo[5;1Hmaly, that if left unchecked might threaten the system itself. Ergo those that refused the program, while a minority, iff[6;1H unchecked, would constitute an escalating probablility of disaster.
+Neo:  Bullshit.
+TV Neos:  Bullshit!
+Neo:  You won’[9;15Ht let it happen. You can’[9;40Ht. You need human beings to survive.
+Architect:  There are levels of survival we are prepared to accept. However, the relevant issue is whether or not you arr[11;1He ready to accept the responsibility of the death of every human being on this world. It is interesting, reading your ree[12;1Hactions. Your 5 predecessors were, by design, based on a similar predication –[12;80Ha contingent affirmation that was meant tt[13;1Ho create a profound attachment to the rest of your species, facilitating the function of the One. While the others experr[14;1Hienced this in a very general way, your experience is far more specific –[14;75Hvis a vis love.
+Neo:  Trinity.
+Architect:  Apropos, she entered the Matrix to save your life, at the cost of her own.
+[94m~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [32;1H~                                                                                                                       [33;1H~                                                                                                                       [34;1H~                                                                                                                       [35;1H~                                                                                                                       [36;1H~                                                                                                                       [37;1H~                                                                                                                       [38;1H~                                                                                                                       [39;1H~                                                                                                                       [40;1H~                                                                                                                       [41;1H~                                                                                                                       [42;1H~                                                                                                                       [43;1H~                                                                                                                       [44;1H~                                                                                                                       [45;1H~                                                                                                                       [1;1H[?25h[?4m[?25l[m[46;1H[K[46;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[46;1H[K[46;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ rm kazumian_out kazumian_err 
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab.py [1@3[C[C[C[C > [C k a z u m i a n _ o u t [C 2 > k a z u [1P [1P [1P [1P [1P [C > [C [K[1P [K[C[1P[C[C[1P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C> k a z u m i a n _ e r r 
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3.py>kazumian_out 2>kazumian_err [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Prm kazumian_out [C[C[C[C[C[C[C[C[C[C[C[C[C[13Pvi kazumian_out[C
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;46r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[46;1H"kazumian_out" 10 lines, 506 bytes[1;1H[captain]:  Squiddies got all our best spots.
+Ballard:  What are we gonna do about it?
+Niobe:  We’[3;12Hre gonna do what Commander Lock ordered us to do. We’[3;65Hll evacuate broadcast level and return to Zion.
+Smith:  I’[4;11Hm looking for Neo.
+Corrupt:  Never heard of him.
+Corrupt:  Fine, whatever. Now piss off.
+Wurm:  How did you know someone was here?
+Corrupt:  He gave you this. He said you set him free.
+Wurm:  Is everything all right, sir?
+Neo:  The meeting is over, retreat to your exits. Agents are coming.
+[94m~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [32;1H~                                                                                                                       [33;1H~                                                                                                                       [34;1H~                                                                                                                       [35;1H~                                                                                                                       [36;1H~                                                                                                                       [37;1H~                                                                                                                       [38;1H~                                                                                                                       [39;1H~                                                                                                                       [40;1H~                                                                                                                       [41;1H~                                                                                                                       [42;1H~                                                                                                                       [43;1H~                                                                                                                       [44;1H~                                                                                                                       [45;1H~                                                                                                                       [1;1H[?25h[?4m[?25l[m[46;1H[K[46;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[46;1H[K[46;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_out [28@python3 lab3.py>kazumian_out 2>kazumian_err[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[15Prm kazumian_out [C[C[C[C[C[C[C[C[C[C[C[C[C[13Pvi kazumian_out[Cerr[C
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;46r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[46;1H"kazumian_err" 8 lines, 517 bytes[1;1HMorpheus:  Niobe. My apologies to all. As you are undoubtedly aware, it has become increasingly difficult to locate a see[2;1Hcure broadcast position.
+Ice:  Mainlines are crawling with them.
+Ghost:  And if Niobe’[4;22Hs right, in 72 hours there’[4;49Hs gonna be a quarter of a million more.
+Morpheus:  And does the Commander have a plan for stopping 250,000 sentinels?
+Niobe:  A strategy is still being formulated.
+Morpheus:  I’[7;14Hm sure it is.
+Smith:  I have something for him. A gift. You see, he set me free.
+Neo:  Who was that?
+[94m~                                                                                                                       [11;1H~                                                                                                                       [12;1H~                                                                                                                       [13;1H~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [32;1H~                                                                                                                       [33;1H~                                                                                                                       [34;1H~                                                                                                                       [35;1H~                                                                                                                       [36;1H~                                                                                                                       [37;1H~                                                                                                                       [38;1H~                                                                                                                       [39;1H~                                                                                                                       [40;1H~                                                                                                                       [41;1H~                                                                                                                       [42;1H~                                                                                                                       [43;1H~                                                                                                                       [44;1H~                                                                                                                       [45;1H~                                                                                                                       [1;1H[?25h[?4m[?25l[m[46;1H[K[46;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[46;1H[K[46;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3.py [K?[K>kazumian_final 2>&q[K1
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ wc -w kazumian_out 
+[?2004l87 kazumian_out
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ wc -w kazumian_out [K[K[K[Kerr 
+[?2004l87 kazumian_err
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ wc -w kazumian_err [K[K[K[Kfinal
+[?2004l67 kazumian_final
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ vi kazumian_final 
+[?2004l[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;46r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[46;1H"kazumian_final" 12 lines, 370 bytes[1;1HTwin 2:  Step away from the door.
+Twin 2:  We owe you for that.
+Twin 1:  Just like new.
+Twin 2:  Drop your weapon.
+Morpheus:  Stay with him.
+Trinity:  What about Neo?
+Morpheus:  He can handle himself.
+Trinity:  Get in the back.
+Neo:  Oh shit.
+Link:  Operator.
+Neo:  Link, where am I?
+Link:  You’[12;12Hre not gonna believe this, but you’[12;47Hre all the way up in the mountains.
+[94m~                                                                                                                       [14;1H~                                                                                                                       [15;1H~                                                                                                                       [16;1H~                                                                                                                       [17;1H~                                                                                                                       [18;1H~                                                                                                                       [19;1H~                                                                                                                       [20;1H~                                                                                                                       [21;1H~                                                                                                                       [22;1H~                                                                                                                       [23;1H~                                                                                                                       [24;1H~                                                                                                                       [25;1H~                                                                                                                       [26;1H~                                                                                                                       [27;1H~                                                                                                                       [28;1H~                                                                                                                       [29;1H~                                                                                                                       [30;1H~                                                                                                                       [31;1H~                                                                                                                       [32;1H~                                                                                                                       [33;1H~                                                                                                                       [34;1H~                                                                                                                       [35;1H~                                                                                                                       [36;1H~                                                                                                                       [37;1H~                                                                                                                       [38;1H~                                                                                                                       [39;1H~                                                                                                                       [40;1H~                                                                                                                       [41;1H~                                                                                                                       [42;1H~                                                                                                                       [43;1H~                                                                                                                       [44;1H~                                                                                                                       [45;1H~                                                                                                                       [1;1H[?25h[?4m
+
+
+
+
+
+
+
+
+
+
+[?25l[m[46;1H[K[46;1H:[?25hq[?25l[?2004l[>4;m[23;2t[23;1t[46;1H[K[46;1H[?2004l[?1l>[?1049l[23;0;0t[?25h[>4;m[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ man grep
+[?2004l[?1049h[22;0;0t[?1h=GREP(1)                                             User Commands                                             GREP(1)[m
+[m
+[1mNAME[0m[m
+       grep, egrep, fgrep, rgrep - print lines that match patterns[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mgrep[0m [[4mOPTION[24m...] [4mPATTERNS[24m [[4mFILE[24m...][m
+       [1mgrep[0m [[4mOPTION[24m...] [1m-e[0m [4mPATTERNS[24m ... [[4mFILE[24m...][m
+       [1mgrep[0m [[4mOPTION[24m...] [1m-f[0m [4mPATTERN_FILE[24m ... [[4mFILE[24m...][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mgrep[0m  searches  for  [4mPATTERNS[24m in each [4mFILE[24m.  [4mPATTERNS[24m is one or more patterns separated by newline characters,[m
+       and [1mgrep[0m prints each line that matches a pattern.  Typically [4mPATTERNS[24m should be quoted when [1mgrep[0m is used in  a[m
+       shell command.[m
+[m
+       A  [4mFILE[24m  of  “[1m-[0m”  stands  for  standard  input.   If  no [4mFILE[24m is given, recursive searches examine the working[m
+       directory, and nonrecursive searches read standard input.[m
+[m
+       Debian also includes the variant programs [1megrep[0m, [1mfgrep[0m and [1mrgrep[0m.  These programs are  the  same  as  [1mgrep[0m [1m-E[0m,[m
+       [1mgrep[0m [1m-F[0m,  and [1mgrep[0m [1m-r[0m, respectively.  These variants are deprecated upstream, but Debian provides for backward[m
+       compatibility. For portability reasons, it is recommended to avoid the variant programs, and use [1mgrep[0m with the[m
+       related option instead.[m
+[m
+[1mOPTIONS[0m[m
+   [1mGeneric[0m [1mProgram[0m [1mInformation[0m[m
+       [1m--help[0m Output a usage message and exit.[m
+[m
+       [1m-V[0m, [1m--version[0m[m
+              Output the version number of [1mgrep[0m and exit.[m
+[m
+   [1mPattern[0m [1mSyntax[0m[m
+       [1m-E[0m, [1m--extended-regexp[0m[m
+              Interpret [4mPATTERNS[24m as extended regular expressions (EREs, see below).[m
+[m
+       [1m-F[0m, [1m--fixed-strings[0m[m
+              Interpret [4mPATTERNS[24m as fixed strings, not regular expressions.[m
+[m
+       [1m-G[0m, [1m--basic-regexp[0m[m
+              Interpret [4mPATTERNS[24m as basic regular expressions (BREs, see below).  This is the default.[m
+[m
+       [1m-P[0m, [1m--perl-regexp[0m[m
+              Interpret  [4mPATTERNS[24m  as  Perl-compatible regular expressions (PCREs).  This option is experimental when[m
+              combined with the [1m-z[0m ([1m--null-data[0m) option, and [1mgrep[0m [1m-P[0m may warn of unimplemented features.[m
+[m
+   [1mMatching[0m [1mControl[0m[m
+[7m Manual page grep(1) line 1 (press h for help or q to quit)[27m[K[K [K::[Kqq[K[?1l>[?1049l[23;0;0t[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ python3 lab3_2.py 
+[?2004la) The character that says a phrase is "Merovingian"
+	b) The character that is talked with/about is  "Keymaker"
+		c) Should contain punctuation ""
+			d) The subject that is talked about "nature"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep Merovingian
+[?2004lThe Oracle," Yes, he disappeared some time ago. We did not know what happened to him until now. He’s being held prisoner by a very dangerous program, one of the oldest of us. He is called the Merovingian, and he will not let him go willingly."
+Morpheus," Yes, we are here to speak with the Merovingian."
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+Merovingian," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+Merovingian," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+Merovingian," Cause? There is no cause for this, what cause?"
+Merovingian," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+Merovingian," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+Merovingian," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+Merovingian," Okay, you have some skill. Kill him."
+Merovingian," You see, he’s just a man."
+Merovingian," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep Merovingian^Merovingian[C[C[C[C[C[C[C[C[C[C[C
+[?2004lMerovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+Merovingian," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+Merovingian," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+Merovingian," Cause? There is no cause for this, what cause?"
+Merovingian," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+Merovingian," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+Merovingian," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+Merovingian," Okay, you have some skill. Kill him."
+Merovingian," You see, he’s just a man."
+Merovingian," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Keymaker
+[?2004lMerovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Keymaker | grep nature
+[?2004lMerovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | grep Keymaker | grep nature | wc -l
+[?2004l1
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ man grep
+[?2004l[?1049h[22;0;0t[?1h=GREP(1)                                             User Commands                                             GREP(1)[m
+[m
+[1mNAME[0m[m
+       grep, egrep, fgrep, rgrep - print lines that match patterns[m
+[m
+[1mSYNOPSIS[0m[m
+       [1mgrep[0m [[4mOPTION[24m...] [4mPATTERNS[24m [[4mFILE[24m...][m
+       [1mgrep[0m [[4mOPTION[24m...] [1m-e[0m [4mPATTERNS[24m ... [[4mFILE[24m...][m
+       [1mgrep[0m [[4mOPTION[24m...] [1m-f[0m [4mPATTERN_FILE[24m ... [[4mFILE[24m...][m
+[m
+[1mDESCRIPTION[0m[m
+       [1mgrep[0m  searches  for  [4mPATTERNS[24m in each [4mFILE[24m.  [4mPATTERNS[24m is one or more patterns separated by newline characters,[m
+       and [1mgrep[0m prints each line that matches a pattern.  Typically [4mPATTERNS[24m should be quoted when [1mgrep[0m is used in  a[m
+       shell command.[m
+[m
+       A  [4mFILE[24m  of  “[1m-[0m”  stands  for  standard  input.   If  no [4mFILE[24m is given, recursive searches examine the working[m
+       directory, and nonrecursive searches read standard input.[m
+[m
+       Debian also includes the variant programs [1megrep[0m, [1mfgrep[0m and [1mrgrep[0m.  These programs are  the  same  as  [1mgrep[0m [1m-E[0m,[m
+       [1mgrep[0m [1m-F[0m,  and [1mgrep[0m [1m-r[0m, respectively.  These variants are deprecated upstream, but Debian provides for backward[m
+       compatibility. For portability reasons, it is recommended to avoid the variant programs, and use [1mgrep[0m with the[m
+       related option instead.[m
+[m
+[1mOPTIONS[0m[m
+   [1mGeneric[0m [1mProgram[0m [1mInformation[0m[m
+       [1m--help[0m Output a usage message and exit.[m
+[m
+       [1m-V[0m, [1m--version[0m[m
+              Output the version number of [1mgrep[0m and exit.[m
+[m
+   [1mPattern[0m [1mSyntax[0m[m
+       [1m-E[0m, [1m--extended-regexp[0m[m
+              Interpret [4mPATTERNS[24m as extended regular expressions (EREs, see below).[m
+[m
+       [1m-F[0m, [1m--fixed-strings[0m[m
+              Interpret [4mPATTERNS[24m as fixed strings, not regular expressions.[m
+[m
+       [1m-G[0m, [1m--basic-regexp[0m[m
+              Interpret [4mPATTERNS[24m as basic regular expressions (BREs, see below).  This is the default.[m
+[m
+       [1m-P[0m, [1m--perl-regexp[0m[m
+              Interpret  [4mPATTERNS[24m  as  Perl-compatible regular expressions (PCREs).  This option is experimental when[m
+              combined with the [1m-z[0m ([1m--null-data[0m) option, and [1mgrep[0m [1m-P[0m may warn of unimplemented features.[m
+[m
+   [1mMatching[0m [1mControl[0m[m
+[7m Manual page grep(1) line 1 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-e[0m [4mPATTERNS[24m, [1m--regexp=[0m[4mPATTERNS[24m[m
+[7m Manual page grep(1) line 2 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Use [4mPATTERNS[24m as the patterns.  If this option is used  multiple  times  or  is  combined  with  the  [1m-f[0m[m
+[7m Manual page grep(1) line 3 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              ([1m--file[0m) option, search for all patterns given.  This option can be used to protect a pattern beginning[m
+[7m Manual page grep(1) line 4 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              with “-”.[m
+[7m Manual page grep(1) line 5 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 6 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-f[0m [4mFILE[24m, [1m--file=[0m[4mFILE[24m[m
+[7m Manual page grep(1) line 7 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Obtain patterns from [4mFILE[24m, one per line.  If this option is used multiple times or is combined with the[m
+[7m Manual page grep(1) line 8 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1m-e[0m  ([1m--regexp[0m)  option,  search  for  all  patterns  given.  The empty file contains zero patterns, and[m
+[7m Manual page grep(1) line 9 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              therefore matches nothing.[m
+[7m Manual page grep(1) line 10 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 11 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-i[0m, [1m--ignore-case[0m[m
+[7m Manual page grep(1) line 12 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Ignore case distinctions in patterns and input data, so that characters that differ only in case  match[m
+[7m Manual page grep(1) line 13 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              each other.[m
+[7m Manual page grep(1) line 14 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 15 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--no-ignore-case[0m[m
+[7m Manual page grep(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Do  not  ignore  case  distinctions  in  patterns and input data.  This is the default.  This option is[m
+[7m Manual page grep(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              useful for passing to shell scripts that already use [1m-i[0m, to cancel its effects because the two  options[m
+[7m Manual page grep(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              override each other.[m
+[7m Manual page grep(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-v[0m, [1m--invert-match[0m[m
+[7m Manual page grep(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Invert the sense of matching, to select non-matching lines.[m
+[7m Manual page grep(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-w[0m, [1m--word-regexp[0m[m
+[7m Manual page grep(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Select  only  those  lines  containing  matches  that  form whole words.  The test is that the matching[m
+[7m Manual page grep(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              substring must either be at the beginning of the line, or preceded by a non-word constituent character.[m
+[7m Manual page grep(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Similarly,  it  must  be either at the end of the line or followed by a non-word constituent character.[m
+[7m Manual page grep(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Word-constituent characters are letters, digits, and the underscore.  This option has no effect  if  [1m-x[0m[m
+[7m Manual page grep(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              is also specified.[m
+[7m Manual page grep(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-x[0m, [1m--line-regexp[0m[m
+[7m Manual page grep(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[46;1H[K[7m Manual page grep(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM              Output the version number of [1mgrep[0m and exit.[m
+[46;1H[K[7m Manual page grep(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m-V[0m, [1m--version[0m[m
+[46;1H[K[7m Manual page grep(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[46;1H[K[7m Manual page grep(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1m--help[0m Output a usage message and exit.[m
+[46;1H[K[7m Manual page grep(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM   [1mGeneric[0m [1mProgram[0m [1mInformation[0m[m
+[46;1H[K[7m Manual page grep(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[1mOPTIONS[0m[m
+[46;1H[K[7m Manual page grep(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[46;1H[K[7m Manual page grep(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       related option instead.[m
+[46;1H[K[7m Manual page grep(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       compatibility. For portability reasons, it is recommended to avoid the variant programs, and use [1mgrep[0m with the[m
+[46;1H[K[7m Manual page grep(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       [1mgrep[0m [1m-F[0m,  and [1mgrep[0m [1m-r[0m, respectively.  These variants are deprecated upstream, but Debian provides for backward[m
+[46;1H[K[7m Manual page grep(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       Debian also includes the variant programs [1megrep[0m, [1mfgrep[0m and [1mrgrep[0m.  These programs are  the  same  as  [1mgrep[0m [1m-E[0m,[m
+[46;1H[K[7m Manual page grep(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM[m
+[46;1H[K[7m Manual page grep(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       directory, and nonrecursive searches read standard input.[m
+[46;1H[K[7m Manual page grep(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KAA[K[HM       A  [4mFILE[24m  of  “[1m-[0m”  stands  for  standard  input.   If  no [4mFILE[24m is given, recursive searches examine the working[m
+[46;1H[K[7m Manual page grep(1) line 16 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Do  not  ignore  case  distinctions  in  patterns and input data.  This is the default.  This option is[m
+[7m Manual page grep(1) line 17 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              useful for passing to shell scripts that already use [1m-i[0m, to cancel its effects because the two  options[m
+[7m Manual page grep(1) line 18 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              override each other.[m
+[7m Manual page grep(1) line 19 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 20 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-v[0m, [1m--invert-match[0m[m
+[7m Manual page grep(1) line 21 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Invert the sense of matching, to select non-matching lines.[m
+[7m Manual page grep(1) line 22 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 23 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-w[0m, [1m--word-regexp[0m[m
+[7m Manual page grep(1) line 24 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Select  only  those  lines  containing  matches  that  form whole words.  The test is that the matching[m
+[7m Manual page grep(1) line 25 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              substring must either be at the beginning of the line, or preceded by a non-word constituent character.[m
+[7m Manual page grep(1) line 26 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Similarly,  it  must  be either at the end of the line or followed by a non-word constituent character.[m
+[7m Manual page grep(1) line 27 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Word-constituent characters are letters, digits, and the underscore.  This option has no effect  if  [1m-x[0m[m
+[7m Manual page grep(1) line 28 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              is also specified.[m
+[7m Manual page grep(1) line 29 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 30 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-x[0m, [1m--line-regexp[0m[m
+[7m Manual page grep(1) line 31 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Select only those matches that exactly match the whole line.  For a regular expression pattern, this is[m
+[7m Manual page grep(1) line 32 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              like parenthesizing the pattern and then surrounding it with [1m^[0m and [1m$[0m.[m
+[7m Manual page grep(1) line 33 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 34 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K   [1mGeneral[0m [1mOutput[0m [1mControl[0m[m
+[7m Manual page grep(1) line 35 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-c[0m, [1m--count[0m[m
+[7m Manual page grep(1) line 36 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Suppress normal output; instead print a count of matching lines for each  input  file.   With  the  [1m-v[0m,[m
+[7m Manual page grep(1) line 37 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1m--invert-match[0m option (see above), count non-matching lines.[m
+[7m Manual page grep(1) line 38 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 39 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m--color[0m[[1m=[0m[4mWHEN[24m], [1m--colour[0m[[1m=[0m[4mWHEN[24m][m
+[7m Manual page grep(1) line 40 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              Surround the matched (non-empty) strings, matching lines, context lines, file names, line numbers, byte[m
+[7m Manual page grep(1) line 41 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              offsets, and separators (for fields and groups of context lines) with escape sequences to display  them[m
+[7m Manual page grep(1) line 42 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              in  color  on  the  terminal.  The colors are defined by the environment variable [1mGREP_COLORS[0m.  [4mWHEN[24m is[m
+[7m Manual page grep(1) line 43 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K              [1mnever[0m, [1malways[0m, or [1mauto[0m.[m
+[7m Manual page grep(1) line 44 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K[m
+[7m Manual page grep(1) line 45 (press h for help or q to quit)[27m[K[K [KESCESC[KOO[KBB[K       [1m-L[0m, [1m--files-without-match[0m[m
+[7m Manual page grep(1) line 46 (press h for help or q to quit)[27m[K[K[HM   [1mMatching[0m [1mControl[0m[m
+[HM[m
+[HM              combined with the [1m-z[0m ([1m--null-data[0m) option, and [1mgrep[0m [1m-P[0m may warn of unimplemented features.[m
+[HM              Interpret  [4mPATTERNS[24m  as  Perl-compatible regular expressions (PCREs).  This option is experimental when[m
+[HM       [1m-P[0m, [1m--perl-regexp[0m[m
+[HM[m
+[HM              Interpret [4mPATTERNS[24m as basic regular expressions (BREs, see below).  This is the default.[m
+[HM       [1m-G[0m, [1m--basic-regexp[0m[m
+[HM[m
+[HM              Interpret [4mPATTERNS[24m as fixed strings, not regular expressions.[m
+[HM       [1m-F[0m, [1m--fixed-strings[0m[m
+[HM[m
+[HM              Interpret [4mPATTERNS[24m as extended regular expressions (EREs, see below).[m
+[HM       [1m-E[0m, [1m--extended-regexp[0m[m
+[HM   [1mPattern[0m [1mSyntax[0m[m
+[HM[m
+[HM              Output the version number of [1mgrep[0m and exit.[m
+[HM       [1m-V[0m, [1m--version[0m[m
+[HM[m
+[HM       [1m--help[0m Output a usage message and exit.[m
+[HM   [1mGeneric[0m [1mProgram[0m [1mInformation[0m[m
+[HM[1mOPTIONS[0m[m
+[HM[m
+[HM       related option instead.[m
+[HM       compatibility. For portability reasons, it is recommended to avoid the variant programs, and use [1mgrep[0m with the[m
+[HM       [1mgrep[0m [1m-F[0m,  and [1mgrep[0m [1m-r[0m, respectively.  These variants are deprecated upstream, but Debian provides for backward[m
+[HM       Debian also includes the variant programs [1megrep[0m, [1mfgrep[0m and [1mrgrep[0m.  These programs are  the  same  as  [1mgrep[0m [1m-E[0m,[m
+[HM[m
+[HM       directory, and nonrecursive searches read standard input.[m
+[HM       A  [4mFILE[24m  of  “[1m-[0m”  stands  for  standard  input.   If  no [4mFILE[24m is given, recursive searches examine the working[m
+[HM[m
+[HM       shell command.[m
+[HM       and [1mgrep[0m prints each line that matches a pattern.  Typically [4mPATTERNS[24m should be quoted when [1mgrep[0m is used in  a[m
+[HM       [1mgrep[0m  searches  for  [4mPATTERNS[24m in each [4mFILE[24m.  [4mPATTERNS[24m is one or more patterns separated by newline characters,[m
+[HM[1mDESCRIPTION[0m[m
+[HM[m
+[HM       [1mgrep[0m [[4mOPTION[24m...] [1m-f[0m [4mPATTERN_FILE[24m ... [[4mFILE[24m...][m
+[HM       [1mgrep[0m [[4mOPTION[24m...] [1m-e[0m [4mPATTERNS[24m ... [[4mFILE[24m...][m
+[HM       [1mgrep[0m [[4mOPTION[24m...] [4mPATTERNS[24m [[4mFILE[24m...][m
+[HM[1mSYNOPSIS[0m[m
+[HM[m
+[HM       grep, egrep, fgrep, rgrep - print lines that match patterns[m
+[HM[1mNAME[0m[m
+[HM[m
+[HMGREP(1)                                             User Commands                                             GREP(1)[m
+[46;1H[K[7m Manual page grep(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ man grepcat the-matrix-reloaded.csv | grep ^Merovingian | grep Keymaker | grep nature | wc -l[K[K[K[K[K[K[K[C[1@ [1@-[1@c[C[1@ [1P
+[?2004l1
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ name='Merovingian'
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ echo $Me[K[Kname
+[?2004lMerovingian
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ man sed
+[?2004l[?1049h[22;0;0t[?1h=SED(1)                                              User Commands                                              SED(1)[m
+[m
+[1mNAME[0m[m
+       sed - stream editor for filtering and transforming text[m
+[m
+[1mSYNOPSIS[0m[m
+       sed [-V] [--version] [--help] [-n] [--quiet] [--silent][m
+           [-l N] [--line-length=N] [-u] [--unbuffered][m
+           [-E] [-r] [--regexp-extended][m
+           [-e script] [--expression=script][m
+           [-f script-file] [--file=script-file][m
+           [script-if-no-other-script][m
+           [file...][m
+[m
+[1mDESCRIPTION[0m[m
+       [4mSed[24m  is  a stream editor.  A stream editor is used to perform basic text transformations on an input stream (a[m
+       file or input from a pipeline).  While in some ways similar to an editor which permits scripted edits (such as[m
+       [4med[24m), [4msed[24m works by making only one pass over the input(s), and is consequently more efficient.  But it is [4msed[24m's[m
+       ability to filter text in a pipeline which particularly distinguishes it from other types of editors.[m
+[m
+       [1m-n[0m, [1m--quiet[0m, [1m--silent[0m[m
+[m
+              suppress automatic printing of pattern space[m
+[m
+       [1m--debug[0m[m
+[m
+              annotate program execution[m
+[m
+       [1m-e[0m script, [1m--expression[0m=[4mscript[24m[m
+[m
+              add the script to the commands to be executed[m
+[m
+       [1m-f[0m script-file, [1m--file[0m=[4mscript-file[24m[m
+[m
+              add the contents of script-file to the commands to be executed[m
+[m
+       [1m--follow-symlinks[0m[m
+[m
+              follow symlinks when processing in place[m
+[m
+       [1m-i[SUFFIX][0m, [1m--in-place[0m[=[4mSUFFIX[24m][m
+[m
+              edit files in place (makes backup if SUFFIX supplied)[m
+[m
+       [1m-l[0m N, [1m--line-length[0m=[4mN[24m[m
+[7m Manual page sed(1) line 1 (press h for help or q to quit)[27m[K[K[?1l>[?1049l[23;0;0t[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat te[Khe-matrix-reloaded.csv | grep "[K^Merovingian sed[K[K[K| sed "1i\ --R[KText for $name "[K[K"
+[?2004l --Text for Merovingian
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+Merovingian," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+Merovingian," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+Merovingian," Cause? There is no cause for this, what cause?"
+Merovingian," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+Merovingian," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+Merovingian," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+Merovingian," Okay, you have some skill. Kill him."
+Merovingian," You see, he’s just a man."
+Merovingian," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5
+[?2004l --Text for Merovingian
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman sed[Kecho $namename='Merovingian'[K[K[K[K[K[K[K[K[K[K[K[KLambert Wilson'
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ name='Lambert Wilson'cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5[K[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cman sed[Kecho $name
+[?2004lLambert Wilson
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ echo $namename='Lambert Wilson'cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5[K
+[?2004l --Text for Lambert Wilson
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+Merovingian," But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+Merovingian," No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+Merovingian," Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+Merovingian," Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+Merovingian," Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+Merovingian," Cause? There is no cause for this, what cause?"
+Merovingian," Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+Merovingian," Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+Merovingian," All right. All right. Let us find out where this goes. You two, get the Keymaker."
+Merovingian," Handle us? You’ll handle us? You know, your predecessors had much more respect."
+Merovingian," Okay, you have some skill. Kill him."
+Merovingian," You see, he’s just a man."
+Merovingian," Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name"[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho $name[Kname='Lambert Wilson'cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5
+[?2004l --Text for Lambert Wilson
+Merovingian," Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+Merovingian," Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+Merovingian," Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+Merovingian," Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ cat the-matrix-reloaded.csv | grep ^Merovingian | sed "1i\ --Text for $name" | head -5[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kan | sed "s/Merovingian,\[K/$name[K[K[Kame:/" > lamber t_text
+[?2004l[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ counter =1[K[K[K=1; while read line; do echo $counter $line [K; (c[K(cpun[K[K[Kounter++)); done < keanu_text
+[?2004lbash: keanu_text: No such file or directory
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ counter=1; while read line; do echo $counter $line; ((counter++)); done < keanu_text[K[K[K[K[K[K[K[K[K[Klambert_text
+[?2004l1 Lambert Wilson:" Aha, here he is at last. Neo, the One himself, right? And the legendary Morpheus. And Trinity of course, si belle qu’elle me fait souffrir. I have heard so much, you honour me. Please, sit, join us. This is my wife, Persephone. Something to eat? Drink? Hmm… of course, such things are contrivances like so much here. For the sake of appearances."
+2 Lambert Wilson:" Yes, of course, who has time? Who has time? But then if we do not ever take time, how can we ever have time? Château Haut-Brion 1959, magnificent wine, I love French wine, like I love the French language. I have sampled every language, French is my favourite – fantastic language, especially to curse with. Nom de Dieu de putain de bordel de merde de saloperies de connards d’enculés de ta mère. You see, it’s like wiping your arse with silk, I love it."
+3 Lambert Wilson:" Hmph… I am a trafficker of information, I know everything I can. The question is, do you know why you are here?"
+4 Lambert Wilson:" Oh yes, it is true. The Keymaker, of course. But this is not a reason, this is not a `why.’ The Keymaker himself, his very nature, is means, it is not an end, and so, to look for him is to be looking for a means to do… what?"
+5 Lambert Wilson:" But do you? You think you do but you do not. You are here because you were sent here, you were told to come here and you obeyed. [Laughs] It is, of course, the way of all things. You see, there is only one constant, one universal, it is the only real truth"
+6 Lambert Wilson:" No. Wrong. Choice is an illusion, created between those with power, and those without. Look there, at that woman. My God, just look at her. Affecting everyone around her, so obvious, so bourgeois, so boring. But wait… Watch – you see, I have sent her dessert, a very special dessert. I wrote it myself. It starts so simply, each line of the program creating a new effect, just like poetry. First, a rush… heat… her heart flutters. You can see it, Neo, yes? She does not understand why – is it the wine? No. What is it then, what is the reason? And soon it does not matter, soon the why and the reason are gone, and all that matters is the feeling itself. This is the nature of the universe. We struggle against it, we fight to deny it, but it is of course pretense, it is a lie. Beneath our poised appearance, the truth is we are completely out of control. Causality. There is no escape from it, we are forever slaves to it. Our only hope, our only peace is to understand it, to understand the `why.’ `Why’ is what separates us from them, you from me. `Why’ is the only real social power, without it you are powerless. And this is how you come to me, without `why,’ without power. Another link in the chain. But fear not, since I have seen how good you are at following orders, I will tell you what to do next. Run back, and give the fortune teller this message"
+7 Lambert Wilson:" Oh yes, it is. The Keymaker is mine and I see no reason why I should give him up. No reason at all."
+8 Lambert Wilson:" Please, ma chérie, I’ve told you, we are all victims of causality. I drink too much wine, I must take a piss. Cause and effect. Au revoir."
+9 Lambert Wilson:" Oh God, my God, Persephone how could you do this, you betrayed me [speaking French]!"
+10 Lambert Wilson:" Cause? There is no cause for this, what cause?"
+11 Lambert Wilson:" Lipstick? Lipstick? What craziness you are talking about woman, there is no lipstick."
+12 Lambert Wilson:" Ai-ai-ai-ai-ai-ai, woman, this is nothing, c’est rien, c’est rien du tout. It’s a game, it is only a game."
+13 Lambert Wilson:" All right. All right. Let us find out where this goes. You two, get the Keymaker."
+14 Lambert Wilson:" Handle us? You’ll handle us? You know, your predecessors had much more respect."
+15 Lambert Wilson:" Okay, you have some skill. Kill him."
+16 Lambert Wilson:" You see, he’s just a man."
+17 Lambert Wilson:" Damn it, woman, you will be the end of me. Mark my words, boy, and mark them well. I have survived your predecessors, and I will survive you!"
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ exit
+[?2004lexit
+
+Script done on 2024-09-27 13:03:24+03:00 [COMMAND_EXIT_CODE="0"]

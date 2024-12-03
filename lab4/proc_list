@@ -1,0 +1,101 @@
+USER         PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root           1  0.0  0.4 103272  9084 ?        Ss   Dec01   0:34 /sbin/init
+root           2  0.0  0.0      0     0 ?        S    Dec01   0:00 [kthreadd]
+root           3  0.0  0.0      0     0 ?        I<   Dec01   0:00 [rcu_gp]
+root           4  0.0  0.0      0     0 ?        I<   Dec01   0:00 [rcu_par_gp]
+root           5  0.0  0.0      0     0 ?        I<   Dec01   0:00 [slub_flushwq]
+root           6  0.0  0.0      0     0 ?        I<   Dec01   0:00 [netns]
+root          10  0.0  0.0      0     0 ?        I<   Dec01   0:00 [mm_percpu_wq]
+root          11  0.0  0.0      0     0 ?        I    Dec01   0:00 [rcu_tasks_rude_kthread]
+root          12  0.0  0.0      0     0 ?        I    Dec01   0:00 [rcu_tasks_trace_kthread]
+root          13  0.0  0.0      0     0 ?        S    Dec01   0:12 [ksoftirqd/0]
+root          14  0.1  0.0      0     0 ?        I    Dec01   1:51 [rcu_sched]
+root          15  0.0  0.0      0     0 ?        S    Dec01   0:00 [migration/0]
+root          17  0.0  0.0      0     0 ?        S    Dec01   0:00 [cpuhp/0]
+root          18  0.0  0.0      0     0 ?        S    Dec01   0:00 [cpuhp/1]
+root          19  0.0  0.0      0     0 ?        S    Dec01   0:00 [migration/1]
+root          20  0.0  0.0      0     0 ?        S    Dec01   0:07 [ksoftirqd/1]
+root          22  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kworker/1:0H-events_highpri]
+root          24  0.0  0.0      0     0 ?        S    Dec01   0:00 [kdevtmpfs]
+root          25  0.0  0.0      0     0 ?        I<   Dec01   0:00 [inet_frag_wq]
+root          26  0.0  0.0      0     0 ?        S    Dec01   0:00 [kauditd]
+root          28  0.0  0.0      0     0 ?        S    Dec01   0:00 [khungtaskd]
+root          30  0.0  0.0      0     0 ?        S    Dec01   0:00 [oom_reaper]
+root          31  0.0  0.0      0     0 ?        I<   Dec01   0:00 [writeback]
+root          32  0.0  0.0      0     0 ?        S    Dec01   0:12 [kcompactd0]
+root          33  0.0  0.0      0     0 ?        SN   Dec01   0:00 [ksmd]
+root          34  0.0  0.0      0     0 ?        SN   Dec01   0:06 [khugepaged]
+root          35  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kintegrityd]
+root          36  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kblockd]
+root          37  0.0  0.0      0     0 ?        I<   Dec01   0:00 [blkcg_punt_bio]
+root          38  0.0  0.0      0     0 ?        I<   Dec01   0:00 [tpm_dev_wq]
+root          39  0.0  0.0      0     0 ?        I<   Dec01   0:00 [edac-poller]
+root          40  0.0  0.0      0     0 ?        I<   Dec01   0:00 [devfreq_wq]
+root          41  0.0  0.0      0     0 ?        S    Dec01   0:00 [watchdogd]
+root          42  0.0  0.0      0     0 ?        I<   Dec01   0:01 [kworker/1:1H-kblockd]
+root          44  0.0  0.0      0     0 ?        S    Dec01   0:02 [kswapd0]
+root          50  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kthrotld]
+root          52  0.0  0.0      0     0 ?        S    Dec01   0:00 [irq/12-ACPI:Ged]
+root          53  0.0  0.0      0     0 ?        I<   Dec01   0:00 [acpi_thermal_pm]
+root          54  0.0  0.0      0     0 ?        S    Dec01   0:00 [xenbus_probe]
+root          55  0.0  0.0      0     0 ?        I<   Dec01   0:00 [mld]
+root          56  0.0  0.0      0     0 ?        I<   Dec01   0:01 [kworker/0:1H-kblockd]
+root          57  0.0  0.0      0     0 ?        I<   Dec01   0:00 [ipv6_addrconf]
+root          62  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kstrp]
+root          67  0.0  0.0      0     0 ?        I<   Dec01   0:00 [zswap-shrink]
+root          68  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kworker/u5:0]
+root         130  0.0  0.0      0     0 ?        I<   Dec01   0:00 [ata_sff]
+root         131  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_0]
+root         133  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_0]
+root         135  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_1]
+root         136  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_1]
+root         137  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_2]
+root         138  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_2]
+root         139  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_3]
+root         140  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_3]
+root         141  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_4]
+root         142  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_4]
+root         143  0.0  0.0      0     0 ?        S    Dec01   0:00 [scsi_eh_5]
+root         144  0.0  0.0      0     0 ?        I<   Dec01   0:00 [scsi_tmf_5]
+root         157  0.0  0.0      0     0 ?        I<   Dec01   0:00 [kworker/0:2H-kblockd]
+root         195  0.0  0.0      0     0 ?        S    Dec01   0:03 [jbd2/sda2-8]
+root         196  0.0  0.0      0     0 ?        I<   Dec01   0:00 [ext4-rsv-conver]
+root         237  0.0  0.9  91992 18600 ?        Ss   Dec01   0:07 /lib/systemd/systemd-journald
+root         263  0.0  0.2  27172  4932 ?        Ss   Dec01   0:08 /lib/systemd/systemd-udevd
+root         463  0.0  0.4 237664  8832 ?        Ssl  Dec01   0:01 /usr/libexec/accounts-daemon
+root         466  0.0  0.1   6692  2400 ?        Ss   Dec01   0:00 /usr/sbin/cron -f
+root         471  0.0  0.3 230552  6404 ?        SLsl Dec01   0:00 /usr/libexec/low-memory-monitor
+root         476  0.0  0.3 237868  6352 ?        Ssl  Dec01   0:00 /usr/libexec/power-profiles-daemon
+root         478  0.0  0.2 234184  6064 ?        Ssl  Dec01   0:00 /usr/libexec/switcheroo-control
+root         479  0.0  0.3  50620  6324 ?        Ss   Dec01   0:01 /lib/systemd/systemd-logind
+root         480  0.0  0.4 395880  9592 ?        Ssl  Dec01   0:00 /usr/libexec/udisks2/udisksd
+root         573  0.0  0.0 305948  1624 ?        Ssl  Dec01   0:29 /usr/bin/prltoolsd -p /var/run/prltoolsd.pid
+root         595  0.0  0.1 152908  3104 ?        Sl   Dec01   0:39 prlshprint
+root         596  0.0  0.1   5328  2276 ?        S    Dec01   0:04 prltimesync
+root         813  0.0  0.0      0     0 ?        S    Dec01   0:00 [psimon]
+root         814  0.0  0.2  16312  4796 ?        Ss   Dec01   0:02 /sbin/wpa_supplicant -u -s -O DIR=/run/wpa_supplicant GROUP=netdev
+root         834  0.0  0.5 323452 11340 ?        Ssl  Dec01   0:00 /usr/sbin/ModemManager
+root         860  0.0  0.4 239668  8120 ?        Ssl  Dec01   0:00 /usr/sbin/gdm3
+root        1169  0.0  0.3 234968  6788 ?        Ssl  Dec01   0:08 /usr/libexec/upowerd
+root      331790  0.1  0.4  31220  8864 ?        Ss   19:14   0:09 /usr/sbin/cupsd -l
+root      331794  0.0  0.5 179000 11816 ?        Ssl  19:14   0:02 /usr/sbin/cups-browsed
+root      344796  0.0  0.6 315304 13356 ?        Sl   20:11   0:00 gdm-session-worker [pam/gdm-password]
+root      345549  0.0  0.0   2220   784 ?        Ss   20:11   0:00 fusermount3 -o rw,nosuid,nodev,fsname=portal,auto_unmount,subtype=portal -- /run/user/1000/doc
+root      345621  0.0  1.8 400980 37892 ?        Ssl  20:11   0:00 /usr/libexec/fwupd/fwupd
+root      355806  0.0  0.0      0     0 ?        I    21:07   0:00 [kworker/u4:1-events_unbound]
+root      356094  0.0  0.8 262228 17956 ?        Ssl  21:07   0:00 /usr/sbin/NetworkManager --no-daemon
+root      356969  0.0  0.1   9988  3548 pts/2    S    21:10   0:00 su parallels
+root      357355  0.0  0.0      0     0 ?        I    21:12   0:00 [kworker/u4:4-flush-8:0]
+root      358469  0.0  0.0      0     0 ?        I    21:18   0:00 [kworker/1:0-events]
+root      358656  0.0  0.1   9988  3612 pts/4    S    21:19   0:00 su kazu1
+root      358699  0.0  0.1   9988  3612 pts/5    S    21:19   0:00 su kazu2
+root      358717  0.0  0.1   9988  3616 pts/6    S    21:19   0:00 su kazu3
+root      359319  0.1  0.0      0     0 ?        I    21:22   0:00 [kworker/0:2-events]
+root      359405  0.0  0.0      0     0 ?        I    21:23   0:00 [kworker/1:1-cgroup_destroy]
+root      360173  0.0  0.0      0     0 ?        I    21:28   0:00 [kworker/0:0-events]
+root      360363  0.0  0.0      0     0 ?        I    21:29   0:00 [kworker/u4:2-ext4-rsv-conversion]
+root      360620  0.0  0.0      0     0 ?        I    21:30   0:00 [kworker/1:2-mm_percpu_wq]
+root      361043  0.0  0.2  10856  4284 pts/6    S+   21:33   0:00 sudo su
+root      361044  0.0  0.0  10856  1704 pts/8    Ss   21:33   0:00 sudo su
+root      361045  0.0  0.1   9976  3752 pts/8    S    21:33   0:00 su
+root      361046  0.0  0.1   7064  3676 pts/8    S+   21:33   0:00 bash

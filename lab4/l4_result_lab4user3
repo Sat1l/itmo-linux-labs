@@ -1,0 +1,65 @@
+Script started on 2024-12-02 13:04:13+03:00 [TERM="xterm-256color" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ sudo adduser kau[Kzu3 --ingroup Students
+[?2004l[sudo] password for parallels: 
+Sorry, try again.
+[sudo] password for parallels: 
+Adding user `kazu3' ...
+Adding new user `kazu3' (1003) with group `Students (1004)' ...
+Creating home directory `/home/kazu3' ...
+Copying files from `/etc/skel' ...
+New password: 
+Retype new password: 
+passwd: password updated successfully
+Changing the user information for kazu3
+Enter the new value, or press ENTER for the default
+	Full Name []: 
+	Room Number []: 
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+Is the information correct? [Y/n] Y
+Adding new user `kazu3' to supplemental / extra groups `users' ...
+Adding user `kazu3' to group `users' ...
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ sudo su
+[?2004l[?2004hroot@debian-gnu-linux-12:/home/parallels# sudo su
+[?2004l[?2004hroot@debian-gnu-linux-12:/home/parallels# su kazu3
+[?2004l[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ sudo su kazu3
+[?2004l[sudo] password for kazu3: 
+Sorry, try again.
+[sudo] password for kazu3: 
+kazu3 is not in the sudoers file.
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ su debian
+[?2004lsu: user debian does not exist or the user entry does not contain all the required fields
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ sudo parallers^C[?2004l[?2004h[?2004l
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ su parallels[Ks
+[?2004lPassword: 
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ sudo adduser kazu3 sudo
+[?2004l[sudo] password for parallels: 
+Adding user `kazu3' to group `sudo' ...
+Done.
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ getent group Students
+[?2004lStudents:x:1004:
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ sudi [K[Ko ga[Kpasswd -d kau[Kzu3 Students
+[?2004lRemoving user kazu3 from group Students
+gpasswd: user 'kazu3' is not a member of 'Students'
+[?2004h]0;parallels@debian-gnu-linux-12: ~[01;32mparallels@debian-gnu-linux-12[00m:[01;34m~[00m$ su kazu3
+[?2004lPassword: 
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ cd ./[K[K/Ho[K[Khome/user1
+[?2004lbash: cd: /home/user1: No such file or directory
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ /[Kcd /
+bin/        etc/        media/      root/       sys/        
+boot/       home/       mnt/        run/        tmp/        
+.cache/     lib/        opt/        sbin/       usr/        
+dev/        lost+found/ proc/       srv/        var/        
+]0;kazu3@debian-gnu-linux-12: /home/parallels[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/parallels[00m$ cd /[K/home/kazu1
+[?2004l[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ nano important
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49m[?1h=[?1h=[?25l[39;49m(B[m[H[2J[22;35H(B[0;7m[ New File ](B[m[H(B[0;7m  GNU nano 7.2                        important                                 [1;79H(B[m[23d(B[0;7m^G(B[m Help[14G(B[0;7m^O(B[m Write Out (B[0;7m^W(B[m Where Is  (B[0;7m^K(B[m Cut[53G(B[0;7m^T(B[m Execute   (B[0;7m^C(B[m Location[24d(B[0;7m^X(B[m Exit[14G(B[0;7m^R(B[m Read File (B[0;7m^\(B[m Replace   (B[0;7m^U(B[m Paste     (B[0;7m^J(B[m Justify   (B[0;7m^/(B[m Go To Line[2d[?12l[?25h[?25l[1;49H(B[0;7m*[22d(B[m[K[1;79H[2d(B[0;7m<(B[mt this message.[?12l[?25h[?25l[22;13H(B[0;7m[ line  1/2 (50%), col 89/89 (100%), char 88/89 (98%) ](B[m[?12l[?25h[2;17H[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25hAll students need to be in recreation area at 18:00! Sign below if you got th[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[22d[K[?12l[?25h[2;69H [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h [?25l[?12l[?25h[?25l[?12l[?25h [?25l[?12l[?25hS[?25l[?12l[?25hi[?25l[?12l[?25hg[?25l[?12l[?25hn[?25l[?12l[?25h [?25l[?12l[?25hb[?25l[?12l[?25he[?25l[?12l[?25hl[?25l[?12l[?25ho[?25l[?12l[?25hw[?25l[?12l[?25h [?25l[?12l[?25hi[?25l[?12l[?25hf[?25l[?12l[?25h [?25l[?12l[?25hy[?25l[?12l[?25ho[?25l[?12l[?25hu[?25l[?12l[?25h [?25l[?12l[?25hg[?25l[?12l[?25ho[?25l[?12l[?25ht[?25l[?12l[?25h [?25l[?12l[?25ht[?25l[?12l[?25hh[?25l[?12l[?25h(B[0;7m<(B[mt thi[K[?25l[?12l[?25hs[?25l[?12l[?25h [?25l[?12l[?25hm[?25l[?12l[?25he[?25l[?12l[?25hs[?25l[?12l[?25hs[?25l[?12l[?25ha[?25l[?12l[?25hg[?25l[?12l[?25he[?25l[22d(B[0;7mSave modified buffer?                                                           [23;1H Y(B[m Yes[K[24d(B[0;7m N(B[m No  [14G   (B[0;7m^C(B[m Cancel[K[22;23H[?12l[?25h[?25l[23d(B[0;7m^G(B[m Help[23;21H(B[0;7mM-D(B[m DOS Format[41G(B[0;7mM-A(B[m Append[23;61H(B[0;7mM-B(B[m Backup File[24d(B[0;7m^C(B[m Cancel[17G    (B[0;7mM-M(B[m Mac Format[41G(B[0;7mM-P(B[m Prepend[24;61H(B[0;7m^T(B[m Browse[22d(B[0;7mFile Name to Write: important(B[m[?12l[?25h[?25l   [1K (B[0;7m[ Writing... ](B[m[K[1;49H(B[0;7m [79G(B[m[22;33H(B[0;7m[ Wrote 1 line ](B[m[J[24d[?12l[?25h[24;1H[?1049l[23;0;0t[?1l>[?2004l[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ ^[[200~sudo chmod g+w /home/user1/important
+[?2004lbash: $'\E[200~sudo': command not found
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ ~^C[?2004l[?2004h[?2004l
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$  ^[[200~sudo chmod g+w /home/user1/important~^C[?2004l[?2004h[?2004l
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ [7msudo chmod g+w /home/user1/important[27msudo chmod g+w /home/user1/important
+[?2004l[sudo] password for kazu3: 
+chmod: cannot access '/home/user1/important': No such file or directory
+[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ sudo chmod g+w /home/user1/important[C[C[C[1P1/important[1P1/important[1P1/important[1P1/importantk1/importanta1/importantz1/importantu1/important
+[?2004l[?2004h]0;kazu3@debian-gnu-linux-12: /home/kazu1[01;32mkazu3@debian-gnu-linux-12[00m:[01;34m/home/kazu1[00m$ nan [Ko veryImpornt[K[Ktant!
+[?2004l[?2004h[?1049h[22;0;0t[1;24r(B[m[4l[?7h[39;49
